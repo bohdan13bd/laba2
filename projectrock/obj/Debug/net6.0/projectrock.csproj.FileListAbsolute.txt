@@ -1,0 +1,14 @@
+C:\Users\bogda\source\repos\projectrock\projectrock\bin\Debug\net6.0\projectrock.exe
+C:\Users\bogda\source\repos\projectrock\projectrock\bin\Debug\net6.0\projectrock.deps.json
+C:\Users\bogda\source\repos\projectrock\projectrock\bin\Debug\net6.0\projectrock.runtimeconfig.json
+C:\Users\bogda\source\repos\projectrock\projectrock\bin\Debug\net6.0\projectrock.dll
+C:\Users\bogda\source\repos\projectrock\projectrock\bin\Debug\net6.0\projectrock.pdb
+C:\Users\bogda\source\repos\projectrock\projectrock\obj\Debug\net6.0\projectrock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bogda\source\repos\projectrock\projectrock\obj\Debug\net6.0\projectrock.AssemblyInfoInputs.cache
+C:\Users\bogda\source\repos\projectrock\projectrock\obj\Debug\net6.0\projectrock.AssemblyInfo.cs
+C:\Users\bogda\source\repos\projectrock\projectrock\obj\Debug\net6.0\projectrock.csproj.CoreCompileInputs.cache
+C:\Users\bogda\source\repos\projectrock\projectrock\obj\Debug\net6.0\projectrock.dll
+C:\Users\bogda\source\repos\projectrock\projectrock\obj\Debug\net6.0\refint\projectrock.dll
+C:\Users\bogda\source\repos\projectrock\projectrock\obj\Debug\net6.0\projectrock.pdb
+C:\Users\bogda\source\repos\projectrock\projectrock\obj\Debug\net6.0\projectrock.genruntimeconfig.cache
+C:\Users\bogda\source\repos\projectrock\projectrock\obj\Debug\net6.0\ref\projectrock.dll
